@@ -22,6 +22,7 @@ O **GoMarket** é uma plataforma web desenvolvida com foco no modelo **B2B (Busi
 
 A plataforma funciona como um **marketplace de anúncios**, permitindo que fornecedores publiquem e gerenciem seus produtos, enquanto compradores podem pesquisar, filtrar e comparar diferentes ofertas disponíveis no mercado. O GoMarket tem como principal objetivo **potencializar vendas, aumentar a visibilidade dos fornecedores e otimizar o processo de negociação**, sem intermediar diretamente as transações comerciais.
 
+
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
@@ -47,9 +48,11 @@ Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 
+
 ## 💻 Configuração para Desenvolvimento
 
 ESCREVER
+
 
 ## 🎓 Referências
 
