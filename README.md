@@ -60,7 +60,7 @@ O desenvolvimento do **GoMarket** foi inspirado em plataformas consolidadas do m
 - **Mercado Livre** – Marketplace com foco em compra e venda de produtos  
 - **Alibaba** – Plataforma global de comércio B2B entre fornecedores e compradores  
 - **Amazon** – Referência em e-commerce e experiência do usuário  
-- **LinkedIn** – Referência em conexão entre usuários e networking profissional  
+  
 
 ### 🔧 Referências Técnicas
 
