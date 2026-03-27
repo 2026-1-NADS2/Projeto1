@@ -50,30 +50,23 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 ## 💻 Configuração para Desenvolvimento
 
 ESCREVER
-```
-
-## 📋 Licença/License
-
-"GoMarket" é uma marca desenvolvida no contexto acadêmico deste projeto.
-
-Todos os direitos relacionados ao nome, logotipo e identidade visual são reservados aos autores. 
-A utilização não autorizada da marca, total ou parcial, é proibida.
 
 ## 🎓 Referências
 
-Este projeto foi inspirado em plataformas consolidadas do mercado digital, que utilizam modelos de marketplace e conexão entre usuários:
+O desenvolvimento do **GoMarket** foi inspirado em plataformas consolidadas do mercado digital, que utilizam modelos de marketplace e conexão entre usuários:
 
-- OLX – Plataforma de anúncios e marketplace C2C/B2B  
-- iFood – Plataforma digital de conexão entre restaurantes e consumidores  
-- Mercado Livre – Marketplace com foco em compra e venda de produtos  
-- Alibaba – Plataforma global de comércio B2B entre fornecedores e compradores  
-- Amazon – Referência em e-commerce e experiência do usuário  
-- LinkedIn – Referência em conexão entre usuários e networking profissional  
+- **OLX** – Plataforma de anúncios e marketplace C2C/B2B  
+- **iFood** – Plataforma digital de conexão entre restaurantes e consumidores  
+- **Mercado Livre** – Marketplace com foco em compra e venda de produtos  
+- **Alibaba** – Plataforma global de comércio B2B entre fornecedores e compradores  
+- **Amazon** – Referência em e-commerce e experiência do usuário  
+- **LinkedIn** – Referência em conexão entre usuários e networking profissional  
 
-Além disso, foram utilizadas como base técnica:
+### 🔧 Referências Técnicas
 
 - https://github.com/iuricode/readme-template  
 - https://github.com/gabrieldejesus/readme-model  
 - https://chooser-beta.creativecommons.org/  
-- https://www.toptal.com/developers/gitignore  Aqui estão as referências usadas no projeto.
+- https://www.toptal.com/developers/gitignore  
+💥 O QUE MELHORA
 
