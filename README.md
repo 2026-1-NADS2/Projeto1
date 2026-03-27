@@ -13,7 +13,7 @@
 ## Descrição
 
 <p align="center">
-<img src="imagens/gomarket-logo.PNG" alt="GoMarket Marketplace B2B" border="0" width="300">
+<img src="imagens/gomarket-logo.PNG" alt="GoMarket Marketplace B2B" border="0" width="500">
 <br>
 <strong>GoMarket</strong> - Marketplace B2B
 </p>
