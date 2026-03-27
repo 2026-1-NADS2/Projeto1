@@ -18,9 +18,13 @@
 <strong>GoMarket</strong> - Marketplace B2B
 </p>
 
-O **GoMarket** é uma plataforma web desenvolvida com foco no modelo **B2B (Business to Business)**, com o objetivo de conectar fornecedores e compradores por meio de um sistema de anúncios. A proposta do projeto é criar um ambiente digital onde empresas possam divulgar seus produtos e encontrar parceiros comerciais de forma prática, rápida e organizada.
+<p align="justify">
+O <strong>GoMarket</strong> é uma plataforma web desenvolvida com foco no modelo <strong>B2B (Business to Business)</strong>, com o objetivo de conectar fornecedores e compradores por meio de um sistema de anúncios. A proposta do projeto é criar um ambiente digital onde empresas possam divulgar seus produtos e encontrar parceiros comerciais de forma prática, rápida e organizada.
+</p>
 
-A plataforma funciona como um **marketplace de anúncios**, permitindo que fornecedores publiquem e gerenciem seus produtos, enquanto compradores podem pesquisar, filtrar e comparar diferentes ofertas disponíveis no mercado. O GoMarket tem como principal objetivo **potencializar vendas, aumentar a visibilidade dos fornecedores e otimizar o processo de negociação**, sem intermediar diretamente as transações comerciais.
+<p align="justify">
+A plataforma funciona como um <strong>marketplace de anúncios</strong>, permitindo que fornecedores publiquem e gerenciem seus produtos, enquanto compradores podem pesquisar, filtrar e comparar diferentes ofertas disponíveis no mercado. O GoMarket tem como principal objetivo <strong>potencializar vendas, aumentar a visibilidade dos fornecedores e otimizar o processo de negociação</strong>, sem intermediar diretamente as transações comerciais.
+</p>
 
 
 ## 🛠 Estrutura de pastas
