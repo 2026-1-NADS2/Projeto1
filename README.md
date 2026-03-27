@@ -68,5 +68,5 @@ O desenvolvimento do **GoMarket** foi inspirado em plataformas consolidadas do m
 - https://github.com/gabrieldejesus/readme-model  
 - https://chooser-beta.creativecommons.org/  
 - https://www.toptal.com/developers/gitignore  
-💥 O QUE MELHORA
+
 
