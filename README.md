@@ -41,9 +41,10 @@ ESCREVER
 
 ## 📋 Licença/License
 
-GOMARKET © 2026 by Luis Felipe da Silva Trindade is licensed under CC BY-NC 4.0.
 
 <a href="https://example.com">GOMARKET</a> © 2026 by <a href="https://www.linkedin.com/in/luis-felipe-trindade25/">Luis Felipe da Silva Trindade</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+<
 
 ## 🎓 Referências
 
