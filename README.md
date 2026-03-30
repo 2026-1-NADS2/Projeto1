@@ -27,25 +27,6 @@ A plataforma funciona como um <strong>marketplace de anúncios</strong>, permiti
 </p>
 
 
-## 🛠 Estrutura de pastas
-
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
-
-
-
 ## 🛠 Instalação
 
 Não há instalação!
@@ -57,6 +38,12 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ESCREVER
 
+
+## 📋 Licença/License
+
+GOMARKET © 2026 by Luis Felipe da Silva Trindade is licensed under CC BY-NC 4.0.
+
+<a href="https://example.com">GOMARKET</a> © 2026 by <a href="https://www.linkedin.com/in/luis-felipe-trindade25/">Luis Felipe da Silva Trindade</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
